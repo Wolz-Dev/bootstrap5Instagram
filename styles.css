@@ -43,3 +43,8 @@ i.lead {
 .movete {
   left: 25% !important;
 }
+
+.storys-container {
+  height: 190px;
+  overflow-y: auto;
+}
